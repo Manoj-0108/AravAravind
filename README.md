@@ -6,7 +6,7 @@
 ## I'm a Student, Son of my ROLE MODEL, Developer!
 <br />
 
-- 🔭 I'm currently Pursuing my Masters in CS (Front-End Web Development and Data Science)
+- 🔭 I'm currently Pursuing my Master's in CS (Front-End Web Development and Data Science)
 - 💪 I'm currently working on myself to become a better version of myself: [Better Version!]
 - 📚 I’m currently learning everything
 - 🥅 2021 Goal: Contribute more on my career 
