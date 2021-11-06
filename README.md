@@ -26,6 +26,8 @@
 
 <a href="https://www.w3schools.com/js/"><img align="left" title="Java Script" alt="Aravind | javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 
+<a href="https://www.w3schools.com/nodejs/nodejs_mongodb_create_db.asp"><img align="left" title="Python" alt="Aravind | Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+
 <a href="https://www.w3schools.com/sql/"><img align="left" title="SQL" alt="Aravind | sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
 
 <a href="https://www.w3schools.com/MySQL/default.asp"><img align="left" title="My SQL" alt="Aravind | mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a>
