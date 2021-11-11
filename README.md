@@ -1,4 +1,4 @@
-## Hi there, I'm Aravind - aka [AravAravind] <img src="https://github.com/AravAravind/AravAravind/blob/main/Hi.gif" width="30px">
+## Hi there, My self Manoj- <img src="https://github.com/AravAravind/AravAravind/blob/main/Hi.gif" width="30px">
 
 
 <br/>
@@ -63,11 +63,11 @@
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> 
-    <img src="https://komarev.com/ghpvc/?username=AravAravind">
+    <img src="https://komarev.com/ghpvc/?username=manoj-0108">
 </a>
-<a href="https://github.com/AravAravind?tab=followers"><img src="https://img.shields.io/github/followers/AravAravind?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Manoj-0108?tab=followers"><img src="https://img.shields.io/github/followers/Manoj-0108?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-[website]: https://github.com/AravAravind
-[twitter]: https://twitter.com/Aravind_R_Arav
-[linkedin]: https://www.linkedin.com/in/aravind-r-4230b2225/
+[website]: https://github.com/Manoj-0108
+[Instagram]: https://www.instagram.com/lovable_heart_mk/
+[linkedin]: https://www.linkedin.com/in/manoj-kumar-l-499504224/
